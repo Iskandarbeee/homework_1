@@ -1,0 +1,34 @@
+[
+
+{
+    "id":1,
+    "name":"NodeJs",
+    "room":"Facebook",
+    "techer_id":3
+},
+{
+    "id":2,
+    "name":"Java",
+    "room":"Apple",
+    "techer_id":2
+},
+{
+    "id":3,
+    "name":"Python",
+    "room":"Twiter",
+    "techer_id":1
+},
+{
+    "id":4,
+    "name":".Net",
+    "room":"Telegram",
+    "techer_id":5
+},
+{
+    "id":5,
+    "name":"Android",
+    "room":"Netflix",
+    "techer_id":4
+}
+
+]
